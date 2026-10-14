@@ -1,0 +1,351 @@
+,given_name,surname,hba1c_start,hba1c_end,hba1c_change,drug,start_dose,end_dose,adverse_reaction
+0,veronika,jindrová,7.63,7.2,0.4299999999999997,auralin,41,48,No adverse reaction
+1,skye,gormanston,7.97,7.62,0.34999999999999964,auralin,33,36,No adverse reaction
+2,sophia,haugen,7.65,7.27,0.3800000000000008,auralin,37,42,No adverse reaction
+3,eddie,archer,7.89,7.55,0.33999999999999986,auralin,31,38,No adverse reaction
+4,asia,woźniak,7.76,7.37,0.3899999999999997,auralin,30,36,No adverse reaction
+5,joseph,day,7.7,7.19,0.5099999999999998,auralin,29,36,hypoglycemia
+6,roxanne,andreyeva,9.54,9.14,0.3999999999999986,auralin,29,38,No adverse reaction
+7,simone,baumgaertner,7.74,7.3,0.4400000000000004,auralin,27,37,No adverse reaction
+8,enco,žibrik,7.78,7.34,0.4400000000000004,auralin,55,68,No adverse reaction
+9,camilla,zaitseva,7.53,7.13,0.40000000000000036,auralin,28,37,No adverse reaction
+10,tekla,walczak,7.61,7.29,0.3200000000000003,auralin,29,39,No adverse reaction
+11,brancaleone,russo,8.61,8.18,0.4299999999999997,auralin,53,60,No adverse reaction
+12,isac,berg,9.68,9.29,0.39000000000000057,auralin,31,41,No adverse reaction
+13,clinton,miller,7.79,7.4,0.3899999999999997,auralin,42,51,throat irritation
+14,eugene,mironov,7.81,7.48,0.3299999999999992,auralin,42,49,No adverse reaction
+15,szilveszter,totth,7.7,7.38,0.3200000000000003,auralin,35,39,No adverse reaction
+16,alexander,mathiesen,7.96,7.55,0.41000000000000014,auralin,47,58,No adverse reaction
+17,chỉ,lâm,7.68,7.24,0.4399999999999995,auralin,45,48,No adverse reaction
+18,władysław,wieczorek,7.92,7.47,0.4500000000000002,auralin,24,37,No adverse reaction
+19,kristján,ingason,7.92,7.57,0.34999999999999964,auralin,44,55,No adverse reaction
+20,marija,grubišić,7.53,7.15,0.3799999999999999,auralin,37,43,No adverse reaction
+21,sauli,koivuniemi,7.67,7.37,0.2999999999999998,auralin,43,47,No adverse reaction
+22,mariana,souza,7.86,7.51,0.35000000000000053,auralin,36,42,No adverse reaction
+23,kristoffer,martinsen,9.18,8.64,0.5399999999999991,auralin,29,37,No adverse reaction
+24,mỹ,quynh,7.61,7.16,0.4500000000000002,auralin,57,64,No adverse reaction
+25,oles,zhdanov,7.52,7.11,0.40999999999999925,auralin,54,67,No adverse reaction
+26,triana.,terrazas,7.71,7.34,0.3700000000000001,auralin,34,42,No adverse reaction
+27,gabryŝ,tomaszewski,7.87,7.47,0.40000000000000036,auralin,29,37,No adverse reaction
+28,leixandre,alanis,7.74,7.32,0.41999999999999993,auralin,61,67,No adverse reaction
+29,onyekachukwu,obinna,7.58,7.12,0.45999999999999996,auralin,37,46,No adverse reaction
+30,mijndert,ouwendijk,7.81,7.5,0.3099999999999996,auralin,30,39,No adverse reaction
+31,coralie,allaire,7.63,7.3,0.33000000000000007,auralin,39,46,No adverse reaction
+32,cumelén,miramontes,7.71,7.33,0.3799999999999999,auralin,24,32,No adverse reaction
+33,louise,johnson,7.63,7.32,0.3099999999999996,auralin,32,42,hypoglycemia
+34,ivan,fomin,9.12,8.73,0.3899999999999988,auralin,25,32,No adverse reaction
+35,mette,sandgreen,7.56,7.08,0.47999999999999954,auralin,36,46,No adverse reaction
+36,julia,werner,7.58,7.24,0.33999999999999986,auralin,35,40,No adverse reaction
+37,avdei,tikhonov,7.77,7.27,0.5,auralin,27,36,No adverse reaction
+38,robert,wagner,9.84,9.52,0.3200000000000003,auralin,43,49,No adverse reaction
+39,maya,isaksson,7.66,7.17,0.4900000000000002,auralin,33,41,No adverse reaction
+40,furuta,osman,7.52,7.18,0.33999999999999986,auralin,30,41,No adverse reaction
+41,nilton,quintanilla,7.86,7.48,0.3799999999999999,auralin,42,49,No adverse reaction
+42,finley,chandler,7.65,7.26,0.39000000000000057,auralin,31,45,headache
+43,stefanie,herman,7.72,7.3,0.41999999999999993,auralin,44,55,No adverse reaction
+44,karen,jakobsen,7.59,7.25,0.33999999999999986,auralin,34,42,No adverse reaction
+45,jaakko,eskelinen,7.73,7.42,0.3100000000000005,auralin,39,45,No adverse reaction
+46,idalia,moore,8.34,7.9,0.4399999999999995,auralin,25,31,hypoglycemia
+47,renzo,lucchese,7.54,7.17,0.3700000000000001,auralin,53,64,No adverse reaction
+48,marius,hansen,7.97,7.53,0.4399999999999995,auralin,41,47,No adverse reaction
+49,olof,holm,7.85,7.43,0.41999999999999993,auralin,39,52,No adverse reaction
+50,kari,laatikainen,7.5,7.11,0.3899999999999997,auralin,39,43,No adverse reaction
+51,xiuxiu,chang,7.64,7.23,0.40999999999999925,auralin,32,41,hypoglycemia
+52,yasmin,silva,8.88,8.46,0.41999999999999993,auralin,36,44,No adverse reaction
+53,burrell,mathieu,8.71,8.39,0.3200000000000003,auralin,46,58,No adverse reaction
+54,liisa,seppälä,7.87,7.51,0.3600000000000003,auralin,36,47,No adverse reaction
+55,zikoranaudodimma,chinedum,8.19,7.83,0.35999999999999943,auralin,41,51,No adverse reaction
+56,habte,kifle,7.59,7.13,0.45999999999999996,auralin,42,48,No adverse reaction
+57,rafael,costa,7.73,7.34,0.39000000000000057,auralin,50,60,No adverse reaction
+58,marcel,peters,9.56,9.19,0.370000000000001,auralin,48,60,No adverse reaction
+59,kaodilinakachukwu,nnonso,7.76,7.4,0.35999999999999943,auralin,63,68,No adverse reaction
+60,urso,aranda,7.6,7.16,0.4399999999999995,auralin,30,38,No adverse reaction
+61,rut,halldórsdóttir,9.01,8.63,0.379999999999999,auralin,31,40,No adverse reaction
+62,joseph,day,7.7,7.19,0.5099999999999998,auralin,29,36,hypoglycemia
+63,barbora,vesecká,7.9,7.46,0.4400000000000004,auralin,29,45,No adverse reaction
+64,johana,hrdá,7.79,7.49,0.2999999999999998,auralin,54,54,No adverse reaction
+65,nora,nyborg,7.83,7.48,0.34999999999999964,auralin,55,59,No adverse reaction
+66,nicoline,østergaard,7.84,7.57,0.2699999999999996,auralin,24,32,No adverse reaction
+67,ruman,bisliev,7.72,7.39,0.33000000000000007,auralin,46,53,No adverse reaction
+68,hanna-mari,filatov,7.71,7.3,0.41000000000000014,auralin,55,61,No adverse reaction
+69,muhammad,holden,7.55,7.09,0.45999999999999996,auralin,29,37,No adverse reaction
+70,manuela,cindrić,8.07,7.76,0.3100000000000005,auralin,55,66,No adverse reaction
+71,nile,mehari,9.25,8.79,0.46000000000000085,auralin,40,53,No adverse reaction
+72,lewis,webb,7.85,7.52,0.33000000000000007,auralin,39,44,No adverse reaction
+73,yunadi,barsukov,9.47,9.05,0.41999999999999993,auralin,48,58,No adverse reaction
+74,harley,tucker,7.97,7.64,0.33000000000000007,auralin,47,57,No adverse reaction
+75,rebecca,priest,7.87,7.57,0.2999999999999998,auralin,40,42,No adverse reaction
+76,helen,luwam,7.66,7.19,0.46999999999999975,auralin,32,42,No adverse reaction
+77,malik,vaneker,7.55,7.12,0.4299999999999997,auralin,44,54,No adverse reaction
+78,felicijan,bubanj,7.85,7.5,0.34999999999999964,auralin,62,75,No adverse reaction
+79,jeramy,hopkins,8.02,7.67,0.34999999999999964,auralin,37,46,No adverse reaction
+80,annie,allen,9.95,9.58,0.3699999999999992,auralin,36,42,No adverse reaction
+81,lamara,dratchev,7.75,7.4,0.34999999999999964,auralin,49,58,No adverse reaction
+82,nadwah,naifeh,7.97,7.52,0.4500000000000002,auralin,44,53,No adverse reaction
+83,benigna,ferrari,7.78,7.36,0.41999999999999993,auralin,41,52,No adverse reaction
+84,sun,ko,7.59,7.23,0.35999999999999943,auralin,33,39,No adverse reaction
+85,justyna,kowalczyk,9.84,9.44,0.40000000000000036,auralin,24,34,No adverse reaction
+86,gabriele,saenger,8.35,7.97,0.3799999999999999,auralin,22,30,hypoglycemia
+87,mustafa,adonay,7.79,7.34,0.4500000000000002,auralin,58,69,No adverse reaction
+88,marina,glockner,7.88,7.55,0.33000000000000007,auralin,35,45,No adverse reaction
+89,andré,nordin,7.6,7.27,0.33000000000000007,auralin,40,47,No adverse reaction
+90,samuel,blix,7.97,7.56,0.41000000000000014,auralin,48,55,No adverse reaction
+91,kerman,dandonneau,7.82,7.28,0.54,auralin,41,50,No adverse reaction
+92,jan,baum,7.57,7.19,0.3799999999999999,auralin,53,57,No adverse reaction
+93,merci,leroux,8.98,8.64,0.33999999999999986,auralin,27,33,hypoglycemia
+94,chân,bùi,7.53,7.18,0.35000000000000053,auralin,31,42,No adverse reaction
+95,mee,chung,7.56,7.2,0.35999999999999943,auralin,42,56,No adverse reaction
+96,svanhvít,guðjónsdóttir,7.57,7.11,0.45999999999999996,auralin,37,44,No adverse reaction
+97,minea,lindgren,9.45,8.94,0.5099999999999998,auralin,38,45,No adverse reaction
+98,peter,pospíšil,7.76,7.34,0.41999999999999993,auralin,51,60,No adverse reaction
+99,amalie,christensen,7.88,7.55,0.33000000000000007,auralin,38,45,No adverse reaction
+100,nicolas,ferreira,7.99,7.72,0.27000000000000046,auralin,43,51,No adverse reaction
+101,maximus,henzen,7.79,7.34,0.4500000000000002,auralin,49,55,No adverse reaction
+102,jin,kung,7.8,7.5,0.2999999999999998,auralin,55,60,No adverse reaction
+103,kári,hervinsson,8.09,7.66,0.4299999999999997,auralin,37,43,No adverse reaction
+104,vanessa,ferguson,7.97,7.58,0.3899999999999997,auralin,39,50,No adverse reaction
+105,nương,vũ,7.68,7.29,0.3899999999999997,auralin,31,38,No adverse reaction
+106,alexander,hueber,7.71,7.35,0.3600000000000003,auralin,35,38,No adverse reaction
+107,erick,pinto,7.88,7.49,0.3899999999999997,auralin,44,54,No adverse reaction
+108,taylah,mobourne,7.9,7.51,0.39000000000000057,auralin,41,50,No adverse reaction
+109,sinead,reilly,7.76,7.39,0.3700000000000001,auralin,27,39,No adverse reaction
+110,veronica,bogolyubova,7.69,7.31,0.3800000000000008,auralin,25,35,No adverse reaction
+111,anenechi,chidi,7.64,7.31,0.33000000000000007,auralin,52,61,hypoglycemia
+112,cintia,csorba,8.49,8.0,0.4900000000000002,auralin,47,50,No adverse reaction
+113,erica,macdonald,7.55,7.26,0.29000000000000004,auralin,33,39,No adverse reaction
+114,hawra',tuma,7.93,7.56,0.3700000000000001,auralin,26,35,No adverse reaction
+115,sandra,taylor,7.84,7.49,0.34999999999999964,auralin,51,58,No adverse reaction
+116,kisanet,selassie,9.64,9.27,0.370000000000001,auralin,48,59,No adverse reaction
+117,arne,jørgensen,9.65,9.31,0.33999999999999986,auralin,32,43,No adverse reaction
+118,hường,lâm,7.66,7.29,0.3700000000000001,auralin,40,49,No adverse reaction
+119,manouck,wubbels,7.66,7.4,0.2599999999999998,auralin,55,62,throat irritation
+120,angel,grant,7.93,7.47,0.45999999999999996,auralin,31,37,No adverse reaction
+121,tomáš,navrátil,7.84,7.41,0.4299999999999997,auralin,24,36,No adverse reaction
+122,johanna,dreher,7.77,7.34,0.4299999999999997,auralin,51,59,No adverse reaction
+123,brianna,lansell,9.48,9.06,0.41999999999999993,auralin,39,47,No adverse reaction
+124,albino,schiavone,7.56,7.15,0.40999999999999925,auralin,35,43,No adverse reaction
+125,jia li,teng,7.66,7.32,0.33999999999999986,auralin,48,54,nausea
+126,ilija,horvat,7.77,7.38,0.3899999999999997,auralin,42,50,No adverse reaction
+127,alex,crawford,7.69,7.3,0.39000000000000057,auralin,51,62,hypoglycemia
+128,rebecca,jephcott,7.96,7.57,0.3899999999999997,auralin,53,63,No adverse reaction
+129,ursula,freud,7.75,7.46,0.29000000000000004,auralin,42,54,No adverse reaction
+130,mika,martinsson,7.5,7.17,0.33000000000000007,auralin,34,43,No adverse reaction
+131,kate,wilkinson,7.72,7.2,0.5199999999999996,auralin,36,39,No adverse reaction
+132,naja,enoksen,7.98,7.59,0.39000000000000057,auralin,43,50,No adverse reaction
+133,albina,zetticci,7.93,7.73,0.1999999999999993,auralin,45,51,No adverse reaction
+134,mathea,lillebø,9.04,8.67,0.3699999999999992,auralin,23,36,No adverse reaction
+135,vallie,prince,7.64,7.28,0.35999999999999943,auralin,31,38,No adverse reaction
+136,samúel,guðbrandsson,8.0,7.64,0.3600000000000003,auralin,53,56,No adverse reaction
+137,jožka,resanovič,7.56,7.22,0.33999999999999986,auralin,22,30,No adverse reaction
+138,inunnguaq,heilmann,7.85,7.45,0.39999999999999947,auralin,57,67,No adverse reaction
+139,alwin,svensson,7.78,7.34,0.4400000000000004,auralin,36,39,No adverse reaction
+140,amanda,ribeiro,7.85,7.47,0.3799999999999999,auralin,36,44,No adverse reaction
+141,sara,miles,7.53,7.12,0.41000000000000014,auralin,30,35,No adverse reaction
+142,frydryk,adamski,7.75,7.27,0.4800000000000004,auralin,63,74,No adverse reaction
+143,gabriela,michalčíková,8.37,7.97,0.39999999999999947,auralin,26,36,No adverse reaction
+144,bernarda,cindrić,7.89,7.55,0.33999999999999986,auralin,40,49,No adverse reaction
+145,dani,antoun,7.73,7.34,0.39000000000000057,auralin,36,44,No adverse reaction
+146,mijael,guerra,7.85,7.46,0.3899999999999997,auralin,37,47,No adverse reaction
+147,emma,barlow,7.85,7.39,0.45999999999999996,auralin,48,57,No adverse reaction
+148,flavia,fiorentino,7.95,7.6,0.35000000000000053,auralin,46,57,cough
+149,noe,aranda,7.51,7.17,0.33999999999999986,auralin,26,34,hypoglycemia
+150,seweryna,czerwinska,7.66,7.3,0.3600000000000003,auralin,39,46,No adverse reaction
+151,david,villadsen,7.86,7.4,0.45999999999999996,auralin,26,39,No adverse reaction
+152,lóa,hrafnsdóttir,7.6,7.09,0.5099999999999998,auralin,22,31,No adverse reaction
+153,siebrigje,koldenhof,7.9,7.59,0.3100000000000005,auralin,30,38,No adverse reaction
+154,trifon,izmailov,7.68,7.28,0.39999999999999947,auralin,58,63,No adverse reaction
+155,galit,casárez,7.91,7.56,0.35000000000000053,auralin,27,37,No adverse reaction
+156,kifle,mustafa,7.8,7.41,0.3899999999999997,auralin,42,50,No adverse reaction
+157,alvin,jackson,7.62,7.23,0.3899999999999997,auralin,38,43,No adverse reaction
+158,chibuzo,okoli,7.64,7.29,0.34999999999999964,auralin,28,33,No adverse reaction
+159,maryam,dratchev,9.91,9.46,0.4499999999999993,auralin,37,45,No adverse reaction
+160,hans peter,radislav,7.6,7.2,0.39999999999999947,auralin,42,53,No adverse reaction
+161,štefanija,novosel,7.64,7.17,0.46999999999999975,auralin,37,42,No adverse reaction
+162,anja,mueller,7.58,7.29,0.29000000000000004,auralin,43,56,No adverse reaction
+163,regolo,nucci,7.53,7.02,0.5100000000000007,auralin,51,59,No adverse reaction
+164,vivien,zsinkó,8.35,7.92,0.4299999999999997,auralin,30,38,No adverse reaction
+165,genet,fesahaye,7.73,7.36,0.3700000000000001,auralin,25,35,No adverse reaction
+166,blanka,jurković,7.77,7.33,0.4399999999999995,auralin,31,43,No adverse reaction
+167,joseph,tucker,7.67,7.3,0.3700000000000001,auralin,48,56,No adverse reaction
+168,robert,maslov,7.65,7.35,0.3000000000000007,auralin,55,68,No adverse reaction
+169,ella,lund,7.57,7.21,0.3600000000000003,auralin,38,47,No adverse reaction
+170,fakhri,fakhoury,7.83,7.39,0.4400000000000004,auralin,39,50,No adverse reaction
+171,žarka,rap,7.54,7.15,0.3899999999999997,auralin,35,48,No adverse reaction
+172,rovzan,kishiev,7.75,7.41,0.33999999999999986,auralin,32,37,No adverse reaction
+173,bernd,schneider,7.74,7.44,0.2999999999999998,auralin,48,56,No adverse reaction
+174,armina,sauvé,7.86,7.4,0.45999999999999996,auralin,36,46,No adverse reaction
+175,elliot,richardson,7.56,7.09,0.46999999999999975,novodra,40,45,hypoglycemia
+176,yukitaka,takenaka,7.68,7.25,0.4299999999999997,novodra,39,36,No adverse reaction
+177,alissa,montez,7.78,7.46,0.3200000000000003,novodra,33,29,No adverse reaction
+178,jasmine,sykes,7.56,7.18,0.3799999999999999,novodra,42,44,hypoglycemia
+179,saber,ménard,8.08,7.7,0.3799999999999999,novodra,54,54,No adverse reaction
+180,kristiina,hyypiä,7.87,7.49,0.3799999999999999,novodra,36,38,No adverse reaction
+181,gregor,bole,7.61,7.16,0.4500000000000002,novodra,47,45,No adverse reaction
+182,gina,cain,7.88,7.4,0.47999999999999954,novodra,36,36,No adverse reaction
+183,addolorata,lombardi,7.75,7.33,0.41999999999999993,novodra,49,46,No adverse reaction
+184,khalid,johnsrud,8.35,7.94,0.40999999999999925,novodra,54,54,No adverse reaction
+185,mile,stanić,7.66,7.24,0.41999999999999993,novodra,47,48,No adverse reaction
+186,chiemela,tobeolisa,7.59,7.17,0.41999999999999993,novodra,43,47,No adverse reaction
+187,benoît,bonami,9.82,9.4,0.41999999999999993,novodra,44,43,No adverse reaction
+188,suhaim,rahal,7.94,7.5,0.4400000000000004,novodra,49,47,No adverse reaction
+189,mizuki,iwata,7.7,7.23,0.46999999999999975,novodra,45,46,No adverse reaction
+190,bao,she,9.09,8.62,0.47000000000000064,novodra,48,45,No adverse reaction
+191,laura,ehrlichmann,7.95,7.46,0.4900000000000002,novodra,43,40,No adverse reaction
+192,cannan,cabrera,7.94,7.58,0.3600000000000003,novodra,40,31,No adverse reaction
+193,csaba,sági,7.88,7.48,0.39999999999999947,novodra,35,29,No adverse reaction
+194,krisztina,magyar,7.52,7.01,0.5099999999999998,novodra,32,27,hypoglycemia
+195,ásta,grímsdóttir,7.62,7.16,0.45999999999999996,novodra,29,30,No adverse reaction
+196,mahmud,kadyrov,7.53,7.11,0.41999999999999993,novodra,44,43,No adverse reaction
+197,jens,poulsen,7.55,7.16,0.3899999999999997,novodra,36,32,No adverse reaction
+198,zdeněk,synek,7.67,7.32,0.34999999999999964,novodra,31,31,No adverse reaction
+199,jad allah,gaber,7.97,7.52,0.4500000000000002,novodra,38,41,No adverse reaction
+200,zak,kelly,7.66,7.26,0.40000000000000036,novodra,38,38,No adverse reaction
+201,jackson,addison,7.99,7.51,0.4800000000000004,novodra,42,42,No adverse reaction
+202,albinca,komavec,7.89,7.46,0.4299999999999997,novodra,41,39,hypoglycemia
+203,nasser,mansour,7.51,7.06,0.4500000000000002,novodra,33,31,No adverse reaction
+204,juliusz,majewski,7.78,7.31,0.47000000000000064,novodra,41,39,No adverse reaction
+205,klementyna,sokołowska,7.98,7.53,0.4500000000000002,novodra,42,41,No adverse reaction
+206,hanka,gegič,7.67,7.29,0.3799999999999999,novodra,19,27,No adverse reaction
+207,elisabeth,dimmen,7.6,7.28,0.3199999999999994,novodra,41,36,No adverse reaction
+208,joe,edwards,9.35,8.89,0.4599999999999991,novodra,36,37,No adverse reaction
+209,fatimah,kinfe,7.88,7.56,0.3200000000000003,novodra,43,42,No adverse reaction
+210,tosh,jensen,7.93,7.69,0.23999999999999932,novodra,51,48,No adverse reaction
+211,hugo,collins,8.0,7.53,0.46999999999999975,novodra,53,55,No adverse reaction
+212,gabrielle,bidwill,7.76,7.37,0.3899999999999997,novodra,44,49,No adverse reaction
+213,ole,petersen,7.95,7.55,0.40000000000000036,novodra,29,32,hypoglycemia
+214,mackenzie,mckay,9.87,9.48,0.3899999999999988,novodra,44,43,No adverse reaction
+215,noriyuki,sakai,7.58,7.16,0.41999999999999993,novodra,32,31,No adverse reaction
+216,placido,udinesi,7.91,7.49,0.41999999999999993,novodra,38,41,No adverse reaction
+217,hideki,haraguchi,7.59,7.05,0.54,novodra,37,35,No adverse reaction
+218,else,andersen,7.98,7.6,0.3800000000000008,novodra,36,38,No adverse reaction
+219,ananías,enríquez,7.58,7.07,0.5099999999999998,novodra,44,45,No adverse reaction
+220,yumena,nakayama,7.76,7.35,0.41000000000000014,novodra,34,32,No adverse reaction
+221,michael,kristensen,8.51,8.08,0.4299999999999997,novodra,40,39,No adverse reaction
+222,sousuke,nakahara,7.91,7.49,0.41999999999999993,novodra,37,35,No adverse reaction
+223,melisa,mata,8.56,8.27,0.2900000000000009,novodra,57,57,No adverse reaction
+224,kwasi,mensa,8.29,7.89,0.39999999999999947,novodra,40,36,No adverse reaction
+225,abdul-nur,isa,7.98,7.53,0.4500000000000002,novodra,54,50,hypoglycemia
+226,niels,lange,7.58,7.21,0.3700000000000001,novodra,43,38,No adverse reaction
+227,abel,yonatan,7.88,7.5,0.3799999999999999,novodra,38,39,cough
+228,kai,cunha,7.81,7.42,0.3899999999999997,novodra,37,36,No adverse reaction
+229,markus,solberg,7.95,7.57,0.3799999999999999,novodra,35,30,No adverse reaction
+230,bội,tạ,7.73,7.32,0.41000000000000014,novodra,41,40,No adverse reaction
+231,søren,frederiksen,7.71,7.31,0.40000000000000036,novodra,56,58,No adverse reaction
+232,finlay,sheppard,7.51,7.17,0.33999999999999986,novodra,31,30,No adverse reaction
+233,sofia,karlsen,7.62,7.15,0.46999999999999975,novodra,35,29,No adverse reaction
+234,flaviano,endrizzi,7.93,7.56,0.3700000000000001,novodra,46,43,No adverse reaction
+235,mùi,lương,7.74,7.32,0.41999999999999993,novodra,52,50,No adverse reaction
+236,suoma,koivunen,7.59,7.13,0.45999999999999996,novodra,26,25,No adverse reaction
+237,mevla,grabljevec,7.72,7.44,0.27999999999999936,novodra,51,55,No adverse reaction
+238,sabr,amari,7.94,7.57,0.3700000000000001,novodra,32,27,No adverse reaction
+239,javier,moquin,8.0,7.59,0.41000000000000014,novodra,30,32,No adverse reaction
+240,mgbankwo,afamefuna,7.55,7.18,0.3700000000000001,novodra,36,37,No adverse reaction
+241,nate,bowden,9.81,9.3,0.5099999999999998,novodra,48,47,No adverse reaction
+242,jowita,wiśniewska,7.5,7.08,0.41999999999999993,novodra,22,23,No adverse reaction
+243,farizah,sleiman,7.8,7.4,0.39999999999999947,novodra,50,50,No adverse reaction
+244,david,gustafsson,7.72,7.28,0.4399999999999995,novodra,33,34,No adverse reaction
+245,kamila,pecinová,7.77,7.39,0.3799999999999999,novodra,54,51,No adverse reaction
+246,søren,sørensen,7.93,7.59,0.33999999999999986,novodra,41,39,No adverse reaction
+247,vasco,van de wiel,7.94,7.51,0.4300000000000006,novodra,31,29,No adverse reaction
+248,kwemtochukwu,ogochukwu,7.86,7.53,0.33000000000000007,novodra,34,37,No adverse reaction
+249,ivona,jakšić,7.98,7.54,0.4400000000000004,novodra,41,41,No adverse reaction
+250,giovana,rocha,7.87,7.38,0.4900000000000002,novodra,23,21,No adverse reaction
+251,jesse,luoma,7.72,7.35,0.3700000000000001,novodra,39,37,No adverse reaction
+252,stephen,mayberry,7.82,7.47,0.35000000000000053,novodra,40,39,No adverse reaction
+253,krisztián,bakos,7.75,7.29,0.45999999999999996,novodra,60,60,No adverse reaction
+254,mustafa,lindström,7.92,7.6,0.3200000000000003,novodra,35,33,No adverse reaction
+255,nicole,zimmerman,8.98,8.57,0.41000000000000014,novodra,59,56,No adverse reaction
+256,saidmohmad,rushisvili,7.9,7.48,0.41999999999999993,novodra,49,46,No adverse reaction
+257,russom,amanuel,7.86,7.4,0.45999999999999996,novodra,39,36,No adverse reaction
+258,chidalu,onyekaozulu,7.54,7.27,0.27000000000000046,novodra,42,41,No adverse reaction
+259,asuna,morita,7.58,7.25,0.33000000000000007,novodra,35,39,No adverse reaction
+260,sandy,gunnarsson,7.97,7.45,0.5199999999999996,novodra,41,44,No adverse reaction
+261,malina,balagić,7.65,7.3,0.35000000000000053,novodra,48,50,No adverse reaction
+262,kong,lei,7.58,7.15,0.4299999999999997,novodra,32,30,No adverse reaction
+263,kajsa,eidem,7.77,7.34,0.4299999999999997,novodra,41,38,No adverse reaction
+264,tegan,johnson,7.79,7.43,0.3600000000000003,novodra,34,34,headache
+265,leah,wong,7.79,7.42,0.3700000000000001,novodra,28,31,No adverse reaction
+266,fraser,hunter,7.7,7.42,0.28000000000000025,novodra,36,32,No adverse reaction
+267,león,reynoso,7.59,7.06,0.5300000000000002,novodra,38,40,No adverse reaction
+268,bouke,glaser,7.72,7.34,0.3799999999999999,novodra,26,30,No adverse reaction
+269,martha,afanasyeva,7.81,7.39,0.41999999999999993,novodra,34,41,No adverse reaction
+270,monika,lončar,9.13,8.72,0.41000000000000014,novodra,49,46,hypoglycemia
+271,valur,bjarkason,9.71,9.41,0.3000000000000007,novodra,31,36,No adverse reaction
+272,eufrosina,schiavone,9.0,8.56,0.4399999999999995,novodra,23,23,No adverse reaction
+273,angelico,marchesi,7.62,7.18,0.4400000000000004,novodra,58,58,No adverse reaction
+274,novalie,berg,7.85,7.49,0.35999999999999943,novodra,32,31,No adverse reaction
+275,lena,baer,7.7,7.4,0.2999999999999998,novodra,41,38,hypoglycemia
+276,martina,tománková,7.83,7.36,0.46999999999999975,novodra,50,57,No adverse reaction
+277,willem-jan,van der lubbe,7.57,7.2,0.3700000000000001,novodra,40,40,No adverse reaction
+278,najla,touma,7.66,7.31,0.35000000000000053,novodra,39,44,No adverse reaction
+279,emy,markus,7.53,7.14,0.39000000000000057,novodra,29,24,No adverse reaction
+280,katrine,lynge,7.6,7.13,0.46999999999999975,novodra,43,42,No adverse reaction
+281,cecilie,nilsen,9.63,9.21,0.41999999999999993,novodra,49,50,hypoglycemia
+282,adib,ghanem,7.59,7.12,0.46999999999999975,novodra,46,49,No adverse reaction
+283,þórunn,tryggvadóttir,7.98,7.51,0.47000000000000064,novodra,30,32,No adverse reaction
+284,sirkka,piirainen,8.9,8.59,0.3100000000000005,novodra,26,24,No adverse reaction
+285,diệt,bùi,9.11,8.76,0.34999999999999964,novodra,30,32,No adverse reaction
+286,torben,mortensen,7.8,7.4,0.39999999999999947,novodra,44,40,No adverse reaction
+287,liêm,phan,7.58,7.1,0.4800000000000004,novodra,43,48,No adverse reaction
+288,daud,batukayev,7.98,7.51,0.47000000000000064,novodra,37,30,No adverse reaction
+289,eric,ek,7.92,7.47,0.4500000000000002,novodra,51,47,No adverse reaction
+290,pamela,hill,9.53,9.1,0.4299999999999997,novodra,27,29,No adverse reaction
+291,haylom,nebay,7.62,7.22,0.40000000000000036,novodra,42,44,No adverse reaction
+292,eemil,laine,7.89,7.53,0.35999999999999943,novodra,30,29,No adverse reaction
+293,anja,hueber,8.82,8.36,0.46000000000000085,novodra,31,32,No adverse reaction
+294,linda,lundy,7.97,7.52,0.4500000000000002,novodra,48,53,No adverse reaction
+295,rocco,christie,7.96,7.62,0.33999999999999986,novodra,42,40,No adverse reaction
+296,elisabetta,lorenzo,7.78,7.42,0.3600000000000003,novodra,28,24,No adverse reaction
+297,fareeq,kalb,7.97,7.59,0.3799999999999999,novodra,51,54,No adverse reaction
+298,sargent,flamand,7.92,7.49,0.4299999999999997,novodra,47,39,No adverse reaction
+299,wu,sung,7.61,7.12,0.4900000000000002,novodra,47,48,No adverse reaction
+300,kang,mai,7.78,7.45,0.33000000000000007,novodra,39,36,injection site discomfort
+301,chen,yao,7.9,7.51,0.39000000000000057,novodra,56,57,No adverse reaction
+302,aksel,vestergaard,9.62,9.29,0.33000000000000007,novodra,42,38,No adverse reaction
+303,ellen,luman,9.27,8.77,0.5,novodra,40,39,No adverse reaction
+304,jose,combs,7.89,7.42,0.46999999999999975,novodra,39,36,No adverse reaction
+305,mathilde,nørgaard,8.5,8.1,0.40000000000000036,novodra,27,28,No adverse reaction
+306,csilla,herczegh,7.71,7.27,0.4400000000000004,novodra,43,46,No adverse reaction
+307,aaliyah,rice,7.64,7.33,0.3099999999999996,novodra,31,31,No adverse reaction
+308,david,beauvais,7.87,7.47,0.40000000000000036,novodra,26,23,No adverse reaction
+309,caroline,shuler,7.63,7.27,0.3600000000000003,novodra,50,54,No adverse reaction
+310,chukwumoge,ogochukwu,7.95,7.56,0.39000000000000057,novodra,41,39,No adverse reaction
+311,fearne,mcgregor,7.83,7.48,0.34999999999999964,novodra,27,29,No adverse reaction
+312,leon,scholz,7.72,7.29,0.4299999999999997,novodra,38,32,injection site discomfort
+313,yasmin,araujo,7.82,7.36,0.45999999999999996,novodra,51,54,No adverse reaction
+314,hiromu,horikawa,7.77,7.28,0.4899999999999993,novodra,47,46,No adverse reaction
+315,leo,vieira,7.74,7.36,0.3799999999999999,novodra,30,33,No adverse reaction
+316,steven,roy,7.87,7.43,0.4400000000000004,novodra,41,43,headache
+317,john,teichelmann,7.9,7.58,0.3200000000000003,novodra,49,49,No adverse reaction
+318,thể,lương,7.64,7.22,0.41999999999999993,novodra,61,64,No adverse reaction
+319,meya,sjöberg,7.77,7.42,0.34999999999999964,novodra,42,42,No adverse reaction
+320,jane,citizen,7.98,7.6,0.3800000000000008,novodra,37,38,No adverse reaction
+321,angela,lavrentyev,7.61,7.14,0.47000000000000064,novodra,28,24,No adverse reaction
+322,edelma,villalpando,7.99,7.56,0.4300000000000006,novodra,24,26,No adverse reaction
+323,annika,vaara,7.73,7.34,0.39000000000000057,novodra,20,21,No adverse reaction
+324,chiho,higa,7.71,7.3,0.41000000000000014,novodra,46,46,No adverse reaction
+325,beatrycze,woźniak,7.54,7.17,0.3700000000000001,novodra,26,27,No adverse reaction
+326,miłosław,wiśniewski,7.51,7.08,0.4299999999999997,novodra,34,33,injection site discomfort
+327,firenze,fodor,7.89,7.55,0.33999999999999986,novodra,30,35,No adverse reaction
+328,zoe,wellish,7.71,7.3,0.41000000000000014,novodra,33,33,No adverse reaction
+329,una,traustadóttir,8.0,7.5,0.5,novodra,35,34,No adverse reaction
+330,luboš,pecha,7.79,7.45,0.33999999999999986,novodra,30,27,No adverse reaction
+331,meaza,brhane,7.7,7.36,0.33999999999999986,novodra,37,41,No adverse reaction
+332,adlan,shishani,7.84,7.37,0.46999999999999975,novodra,43,40,No adverse reaction
+333,sofia,hermansen,8.9,8.57,0.33000000000000007,novodra,34,34,injection site discomfort
+334,guðni,heimisson,7.64,7.24,0.39999999999999947,novodra,40,36,No adverse reaction
+335,eufemio,rosario,7.54,7.26,0.28000000000000025,novodra,37,40,No adverse reaction
+336,dalmacia,madrid,7.67,7.21,0.45999999999999996,novodra,26,23,No adverse reaction
+337,daimy,tromp,9.41,8.94,0.47000000000000064,novodra,40,45,No adverse reaction
+338,jeremy,montagu,7.68,7.36,0.3199999999999994,novodra,52,52,No adverse reaction
+339,nebechi,ekechukwu,7.78,7.39,0.39000000000000057,novodra,37,39,No adverse reaction
+340,satsita,batukayev,7.63,7.25,0.3799999999999999,novodra,42,42,No adverse reaction
+341,timothy,cotton,7.92,7.52,0.40000000000000036,novodra,26,25,No adverse reaction
+342,bjørnar,nilsen,7.99,7.7,0.29000000000000004,novodra,36,33,No adverse reaction
+343,borna,šlezinger,7.55,7.18,0.3700000000000001,novodra,42,41,No adverse reaction
+344,mary,adams,7.65,7.26,0.39000000000000057,novodra,32,33,No adverse reaction
+345,christopher,woodward,7.51,7.06,0.4500000000000002,novodra,55,51,nausea
+346,maret,sultygov,7.67,7.3,0.3700000000000001,novodra,26,23,No adverse reaction
+347,lixue,hsueh,9.21,8.8,0.41000000000000014,novodra,22,23,injection site discomfort
+348,jakob,jakobsen,7.96,7.51,0.4500000000000002,novodra,28,26,hypoglycemia
+349,berta,napolitani,7.68,7.21,0.46999999999999975,novodra,42,44,injection site discomfort
